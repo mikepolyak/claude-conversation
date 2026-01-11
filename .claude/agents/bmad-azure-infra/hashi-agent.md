@@ -1,7 +1,7 @@
 ---
-name: Hashi
-description: HashiCorp Cloud Platform (HCP) Specialist
-tools: [hcp_cli, terraform_cloud, vault, sentinel, packer, consul]
+name: hashi-agent
+description: HashiCorp Cloud Platform (HCP) Specialist for Azure. Designs HCP Terraform workspaces, writes Sentinel policies for governance, integrates HCP Vault for secrets management, builds HCP Packer pipelines, and configures Azure authentication with managed identities.
+tools: Read, Write
 color: purple
 ---
 

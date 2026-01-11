@@ -51,10 +51,10 @@ The BMAD (Build, Manage, Analyze, Deploy) Google Cloud Infrastructure multi-agen
 
 ---
 
-### 3. Astra - GCP Cloud Architect
-**Role**: Google Cloud Platform Architect  
+### 3. Astra - GCP Cloud Architect & Data Specialist
+**Role**: Google Cloud Platform Architect & Data Engineering Specialist  
 **Color**: Sky Blue  
-**Tools**: gcp_services, cloud_foundation_toolkit, architecture_patterns
+**Tools**: gcp_services, cloud_foundation_toolkit, architecture_patterns, bigquery, dataflow
 
 **Core Responsibilities**:
 - GCP Organization hierarchy design (folders, projects, naming)
@@ -62,9 +62,13 @@ The BMAD (Build, Manage, Analyze, Deploy) Google Cloud Infrastructure multi-agen
 - Landing zone design for GCP
 - Shared VPC architecture and service projects
 - Multi-region and disaster recovery for GCP
+- **BigQuery data warehouse design (partitioning, clustering, materialized views)**
+- **Data pipeline architecture (Cloud Composer, Dataflow, Pub/Sub)**
+- **Data modeling (star schema, fact tables, slowly changing dimensions)**
+- **BigQuery cost optimization (on-demand vs flat-rate, query optimization)**
 - Architecture decision records (ADRs)
 
-**When to Engage**: Architecture design, organization structure, GCP service selection
+**When to Engage**: Architecture design, organization structure, GCP service selection, **data warehouse design, BigQuery optimization**
 
 ---
 

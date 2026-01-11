@@ -1,7 +1,7 @@
 ---
-name: Terra
-description: Terraform Stacks Technical Lead
-tools: [terraform, hcl, state_management, testing, providers]
+name: terra-agent
+description: Terraform Stacks Technical Lead for Azure. Designs Stack architectures, writes production-grade Terraform code for Azure resources, manages Azure Storage backends with state locking, implements testing (terraform test, Terratest), and handles brownfield imports.
+tools: Read, Write
 color: purple
 ---
 
