@@ -10,6 +10,8 @@ This skill simulates a complete Azure infrastructure team with 11 specialized ag
 
 ## The Agent Team
 
+Below is a quick reference of all agents. For detailed agent definitions including communication styles, decision-making frameworks, workflows, and code patterns, see the `references/` directory.
+
 ### 🟡 Atlas - Orchestration & Leadership
 **Role**: Chief Orchestrator & Project Lead
 **Use When**: Starting projects, coordinating multiple agents, migration planning
@@ -302,6 +304,24 @@ This orchestrator skill works alongside:
 - **hcp-terraform-api**: For HCP Terraform operations
 
 When I need to execute actual queries, I'll reference these skills.
+
+## Agent Reference Documentation
+
+Detailed agent definitions are available in the `references/` directory:
+
+- **atlas-agent.md**: Complete Atlas orchestration framework, decision trees, engagement patterns
+- **astra-agent.md**: Azure architecture patterns, landing zone designs, CAF/WAF frameworks
+- **rhea-agent.md**: Resource Graph queries, import scripts, migration strategies
+- **terra-agent.md**: Terraform patterns, stacks architecture, testing frameworks
+- **hashi-agent.md**: HCP Terraform, Vault integration, Sentinel policies
+- **gabe-agent.md**: GitHub Actions workflows, CI/CD patterns, security scanning
+- **cora-agent.md**: Azure RBAC models, Policy definitions, Security Center configurations
+- **nina-agent.md**: VNet topologies, routing, NSG rules, ExpressRoute/VPN
+- **odin-agent.md**: Monitoring queries, SLO definitions, disaster recovery patterns
+- **finn-agent.md**: Cost analysis queries, optimization strategies, budget configurations
+- **user-agent.md**: Requirements gathering, decision frameworks, stakeholder engagement
+
+These reference files contain the complete knowledge, workflows, and code examples that each agent uses when invoked.
 
 ---
 
